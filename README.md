@@ -39,9 +39,14 @@ To get started with this project, follow these steps:
 
 ### Prerequisites
 
-- Web server (e.g., Apache, Nginx)
+- Web server (e.g., Apache)
 - PHP (version 7 or later)
 - MySQL database
+
+### MySQL Configuration
+
+- in db_connect.php file update the UserName, PASSWORD, and DataBase as per the database configuration.
+- In your Database create a table (e.g. events) with the necessary fields (e.g. eventName, calendar, color, date).
 
 ### Installation
 
