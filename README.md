@@ -50,6 +50,9 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/arabgeeks/SimpleCalendar.git
    ```
+## To Do
+
+- [ ] Implement event creation and editing functionality
 
  ## License
 
