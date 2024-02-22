@@ -52,7 +52,7 @@ To get started with this project, follow these steps:
    ```
 ## To Do
 
-- [ ] Implement event creation and editing functionality
+- [ ] Implement event creation and editing functionalities
 
  ## License
 
