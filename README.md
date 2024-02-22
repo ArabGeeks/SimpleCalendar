@@ -30,6 +30,7 @@ SimpleCalendar/
 ## Screenshots
 
 ![Calendar Interface](screenshots/1.png)
+
 _Description: This screenshot shows the calendar interface with events displayed._
 
 ## Getting Started
@@ -49,3 +50,11 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/arabgeeks/SimpleCalendar.git
    ```
+
+ ## License
+
+The original frontend project was created by [Paul Navasard](https://codepen.io/peanav) on CodePen. You can view the original project [here](https://codepen.io/peanav/pen/xxKWzG).
+
+This repository contains a modified version of the original project, which includes additional backend functionality for interacting with a MySQL database using PHP. The modifications enable the application to store and retrieve event data from the database, enhancing its functionality beyond the original frontend implementation.
+
+The original project from CodePen is licensed under the [MIT License](https://opensource.org/licenses/MIT), which allows for almost unrestricted use of the code with minimal requirements. Please refer to the [LICENSE](LICENSE) file for details.
