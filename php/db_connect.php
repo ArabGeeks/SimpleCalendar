@@ -1,9 +1,9 @@
 <?php
 // db_connect.php
-$servername = "localhost";
-$username = "root";
+$servername = "";
+$username = "";
 $password = "";
-$dbname = "calendarDB";
+$dbname = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
