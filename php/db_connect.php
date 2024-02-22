@@ -24,10 +24,10 @@ while ($row = $result->fetch_assoc()) {
 echo json_encode($events);
 
 $conn->close();
+
+//TODO: Implement event creation editing functionality 
 /*
 $date = date('Y-m-d'); // current date in 'YYYY-MM-DD' format
 $sql = "INSERT INTO Events (eventName, calendar, color, date) VALUES ('Event Name', 'Calendar Name', 'blue', '$date')";
-
-
 */
 ?>
