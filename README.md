@@ -57,4 +57,10 @@ The original frontend project was created by [Paul Navasard](https://codepen.io/
 
 This repository contains a modified version of the original project, which includes additional backend functionality for interacting with a MySQL database using PHP. The modifications enable the application to store and retrieve event data from the database, enhancing its functionality beyond the original frontend implementation.
 
-The original project from CodePen is licensed under the [MIT License](https://opensource.org/licenses/MIT), which allows for almost unrestricted use of the code with minimal requirements. Please refer to the [LICENSE](LICENSE) file for details.
+### Licenses
+
+- **Original CodePen Project License**:
+  - The original project from CodePen is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the [LICENSE-CodePen-MIT](LICENSE-CodePen-MIT) file for details.
+
+- **Repository License**:
+  - This modified version of the project in this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the [LICENSE](LICENSE) file for details.
